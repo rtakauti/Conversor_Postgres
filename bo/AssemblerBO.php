@@ -16,7 +16,6 @@ class AssemblerBO extends Estrutura{
 		$this->dao = NULL;
 	}
 	
-	
 	public static function devTree(){
 		echo "<pre>";
 		$string = "\n\n\n";
