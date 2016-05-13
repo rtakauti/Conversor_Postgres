@@ -4,6 +4,7 @@ ini_set ( "display_errors", 1 );
 ini_set("max_execution_time", 3000);
 
 
+
 include_once realpath ( __DIR__ . '/../bo/estrutura/Estrutura.php' );
 
 class Connection extends Estrutura{
